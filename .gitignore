@@ -290,3 +290,5 @@ TestPullRequest/TestPullRequest/bin/System.Web.WebPages.Deployment.dll
 TestPullRequest/TestPullRequest/bin/System.Web.WebPages.dll
 TestPullRequest/TestPullRequest/bin/System.Web.WebPages.Razor.dll
 TestPullRequest/TestPullRequest/bin/WebGrease.dll
+TestPullRequest/.vs/TestPullRequest/v16/Server/sqlite3/storage.ide-shm
+TestPullRequest/.vs/TestPullRequest/v16/Server/sqlite3/storage.ide-wal
