@@ -10,7 +10,7 @@ namespace TestPullRequest.Controllers
 	{
 		public ActionResult Index()
 		{
-			ViewBag.Title = "Account Page";
+			ViewBag.Title = "Account Page edit";
 
 			return View();
 		}
